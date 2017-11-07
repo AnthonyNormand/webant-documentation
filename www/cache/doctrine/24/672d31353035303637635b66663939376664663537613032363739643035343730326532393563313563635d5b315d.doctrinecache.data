@@ -1,0 +1,30 @@
+1486740267
+a:2:{s:7:"content";s:1059:"<p>Enfin! Des changements importants pour JAVA! Tant de points attendus. Voici quelques unes des innovations de cette version.</p>
+<p>===</p>
+<h3>Informations</h3>
+<table>
+<thead>
+<tr>
+<th>Date de sortie</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2014</td>
+</tr>
+</tbody>
+</table>
+<h3>I. Les nouveautés</h3>
+<p>Les lambdas expressions permettent de simplifier l'écriture du code. </p>
+<div class="notices red">
+<p>comment la JVM fait-elle pour s’y retrouver et savoir quelle méthode instancier ? La réponse tient en deux mots : interface fonctionnelle. Une interface fonctionnelle est une interface qui ne définit qu’une seule méthode.</p>
+</div>
+<pre><code>button.addEventListener(e -&gt; System.out.println("Click"));  </code></pre>
+<h3>II. Liens utiles</h3>
+<ul>
+<li><a href="http://jobprod.com/les-nouveautes-de-java-8/">jobprod.com</a></li>
+<li>
+<p><a href="https://www.infoq.com/fr/articles/Java-8-Quiet-Features">infog.com</a></p>
+</li>
+<li><a href="http://soat.developpez.com/tutoriels/java/projet-lambda-java8/">Soat.developpez.com</a></li>
+</ul>";s:12:"content_meta";N;}

@@ -1,0 +1,17 @@
+1499880181
+a:2:{s:7:"content";s:858:"<p>Cinnamon est un environnement de bureau de l'OS Linux Mint. Il est également disponible pour Ubuntu</p>
+<p>C'est un fork de GNOME</p>
+<p>===</p>
+<h3>1. Ajouter plusieurs bureaux</h3>
+<p>Pour ajouter des bureaux aux deux initialement prévus, appuyez sur les touches suivantes</p>
+<pre><code class="language-shell">ALT + CTRL + UP</code></pre>
+<p>Cliquez ensuite sur le bouton "+".</p>
+<h3>2. Monter un disque dur automatiquement au démarrage</h3>
+<ul>
+<li>Pour cela, ouvrir le fichier <em>/etc/mtab</em> avec un éditeur de texte </li>
+<li>Monter le disque en double-cliquant dessus via l'interface graphique</li>
+<li>Recopier la ligne qui vient d'être ajouter dans le précédent fichier.</li>
+<li>Ouvrir le fichier <em>/etc/fstab</em> avec les droits d'écriture.</li>
+<li>Recopier la ligne et sauvegardé le fichier.</li>
+<li>It' done ;-)</li>
+</ul>";s:12:"content_meta";N;}

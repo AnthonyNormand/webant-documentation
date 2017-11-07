@@ -1,0 +1,19 @@
+1499270590
+a:2:{s:7:"content";s:838:"<h2>Tournament</h2>
+<p>Projet de tests permettant de tester plusieurs points :</p>
+<ul>
+<li>La configuration Maven avec le découpage en POM de configuration.</li>
+<li>Les nouveautés de Java 7 et 8</li>
+<li>L'utilisation de GIT</li>
+<li>Plusieurs interface graphique comme Aurelia et Angular</li>
+<li>Swagger / Spark Java / Rest API de J2EE pour les web services</li>
+</ul>
+<h3>Concept</h3>
+<p>Un simple gestionnaire de tournois. L'application se découpera en deux parties :</p>
+<ul>
+<li>Un front-end : permettant aux joueurs de visualiser les tournoirs en cours, les résultats des matchs ainsi que les matchs à venir</li>
+<li>Un back-end : permettant aux joueurs de gérer leur profile. Pour l'administrateur, ce dernier permettra la gestion des joueurs, des tournois et des matchs</li>
+</ul>
+<h3>Architecture</h3>
+<p>test</p>
+<hr />";s:12:"content_meta";N;}

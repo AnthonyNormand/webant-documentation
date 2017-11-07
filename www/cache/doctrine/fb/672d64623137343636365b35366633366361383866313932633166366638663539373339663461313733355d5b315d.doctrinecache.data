@@ -1,0 +1,34 @@
+1499020185
+a:2:{s:7:"content";s:771:"<h1>Erreur : Frontmatter invalide</h1>
+<p>Path: <code>/media/anthony/data/Grav/www/user/pages/04.System/CINNAMON/item.fr.md</code></p>
+<p><strong>You cannot define a sequence item when in a mapping at line 7 (near "- oss")</strong></p>
+<pre><code>---
+title: 'CINNAMON'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - linux
+    - oss
+    - mint
+routable: true
+visible: true
+summary:
+    enabled: '1'
+    format: short
+    delimiter: '==='
+---
+
+Cinnamon est un environnement de bureau de l'OS Linux Mint. Il est également disponible pour Ubuntu
+
+C'est un fork de GNOME
+
+===
+
+### 1. Ajouter plusieurs bureaux
+
+Pour ajouter des bureaux aux deux initialement prévus, appuyez sur les touches suivantes
+
+```shell
+ALT + CTRL + UP</code></pre>
+<pre><code></code></pre>";s:12:"content_meta";N;}

@@ -1,0 +1,11 @@
+1499881767
+a:2:{s:7:"content";s:458:"<p>Typora est un logiciel permettant l'édition de fichier de type MARKDOWN. Très simple d'utilisation...</p>
+<p>===</p>
+<h3>1. Installation de Typora</h3>
+<pre><code class="language-shell"># optional, but recommended
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
+# add Typora's repository
+sudo add-apt-repository 'deb https://typora.io ./linux/'
+sudo apt-get update
+# install typora
+sudo apt-get install typora</code></pre>";s:12:"content_meta";N;}

@@ -1,0 +1,21 @@
+1486121060
+a:2:{s:7:"content";s:450:"<h1>Erreur : Frontmatter invalide</h1>
+<p>Path: <code>F:/www/user/pages/03.php/modular.md</code></p>
+<p><strong>A YAML file cannot contain tabs as indentation at line 12 (near " - _showcase").</strong></p>
+<pre><code>---
+title: PHP 
+onpage_menu: true
+taxonomy:
+    category: blog
+    tag: git
+content:
+items: '@self.modular'
+order:
+    by: default
+    dir: asc
+    custom:
+        - _showcase
+        - _showcase
+        - _showcase
+---
+</code></pre>";s:12:"content_meta";N;}

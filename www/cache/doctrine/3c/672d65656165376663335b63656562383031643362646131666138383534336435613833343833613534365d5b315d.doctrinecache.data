@@ -1,0 +1,49 @@
+1486044610
+a:2:{s:7:"content";s:2289:"<h1><img src="http://www.mimastech.com/wp-content/uploads/2016/10/git.png" alt="GIT" /> GIT : Comment ca fonctionne?</h1>
+<h3>I. Présentation de Git</h3>
+<table>
+<thead>
+<tr>
+<th>Informations</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Créateur</td>
+<td><a href="https://fr.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a></td>
+</tr>
+<tr>
+<td>Première version</td>
+<td>7 Avril 2005</td>
+</tr>
+</tbody>
+</table>
+<div class="notices blue">
+<p>Git est un logiciel de gestion de versions décentralisé. C'est un logiciel libre et distribué selon les termes de la licence publique générale GNU version 2. En 2016, il s’agit du logiciel de gestion de versions le plus populaire qui est utilisé par plus de douze millions de personnes.</p>
+</div>
+<h3>II. Commandes utiles</h3>
+<ul>
+<li>_git init : Initialise un repository GIT (ajout de .git).</li>
+<li>git status : Liste des modifications.</li>
+<li>git add 'XXX' : Ajout l'élément XXX au contrôle de version.</li>
+<li>git add -A : Ajout tous les éléments au contrôle de version.</li>
+<li>git commit -m "message" : Commit vers le repository local avec le messsage associé.</li>
+<li>git log : affiche l'historique des commits.</li>
+<li>git remote add origin 'url': Ajout d'un repository distant. </li>
+<li>git push -u origin master : Pousse les modifications sur le repository distant "origin" sur la branche par défaut "master".</li>
+<li>git pull origin master : Récupère les modifications sur le repository distant "origin" sur la branche par défaut "master".</li>
+<li>git diff HEAD : liste les modifications par rapport au dernier commit.</li>
+<li>git diff --staged : liste les modifications locale.</li>
+<li>git reset 'XXX' : Annule les modifications sur XXX.</li>
+<li>git checkout -- 'XXX' : Revert du fichier XXX.</li>
+<li>git branch 'BBBB' : Création d'une branche BBBB.</li>
+<li>git branch -d 'BBBB' : Suppression de la branche BBBB.</li>
+<li>git checkout 'BBBB' : Bascule sur la branche BBBB.</li>
+<li>git rm '*.txt' : supprime les fichiers et le status GIT associé.</li>
+<li>git merge 'BBBB' : Fusionne la branche BBBB sur la branche courante.</li>
+</ul>
+<h3>Tutorial</h3>
+<div class="notices yellow">
+<p>Pour bien comprendre les commandes GIT, utiliser le tutorial [GIT] (https://try.github.io)</p>
+</div>";s:12:"content_meta";N;}
