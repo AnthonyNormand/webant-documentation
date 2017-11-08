@@ -1,8 +1,0 @@
-1510271368
-a:2:{s:7:"content";s:498:"<p>PHP est un language très utilisé pour les sites web. Actuellement nous utilisons la version 7.0. Voici quelques astuces pour l'installer et la configurer</p>
-<p>===</p>
-<h3>1. Installation de PHP</h3>
-<p>L'installation de PHP se fait simplement via la commande suivante :</p>
-<pre><code class="language-shell">apt-get install php7.0</code></pre>
-<p>Pour ajouter des modules même principes. Par exemple pour curl :</p>
-<pre><code class="language-shell">apt-get install php7.0-curl</code></pre>";s:12:"content_meta";N;}
