@@ -1,7 +1,17 @@
-title: Grav
+title: 'WEBANT Services<i class="logoAuthor">by Anthony Normand</i>'
+default_lang: fr
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: 'Anthony NORMAND'
+  email: antho.normand@gmail.com
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+  description: 'Webant service site web'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

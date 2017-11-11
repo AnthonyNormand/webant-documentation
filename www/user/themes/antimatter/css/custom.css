@@ -1,0 +1,18 @@
+#header, #header.scrolled{
+ background-color:#333333 !important;
+}
+
+#header #logo h3 a, #header.scrolled #logo h3 a{
+ color:#F3F3F3 !important;
+}
+
+#body{
+ background-color:#F3F3F3;
+}
+
+.logoAuthor {
+ margin-left: 10px;
+ font-size:0.4em;
+ text-transform:none;
+}
+

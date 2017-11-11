@@ -10,6 +10,5 @@ content:
     url_taxonomy_filters: true
 ---
 
-!!! ### WEBANT Services
 !!! *Etre conscient que l'on est ignorant est un grand pas vers le savoir.*
 
